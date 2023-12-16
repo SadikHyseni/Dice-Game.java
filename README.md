@@ -26,6 +26,7 @@ The game progresses as follows:
 The first player throws all five dice. After the throw, the player has the following options:
 
 • Set aside one or more of the dice.
+
 • Defer the throw i.e., decide not to select any of the dice and keep all five dice to throw again.
 
 In setting aside one or more dice, the player is required to select a category in the score table to go for. This
