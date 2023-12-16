@@ -1,6 +1,5 @@
 # Dice-Game.java
-A Dice Game made in java using Apache NetBeans IDE 12.6 edition  
-configured as a NetBeans ‘Ant’ build
+A Dice Game made in java using Apache NetBeans IDE 12.6 edition configured as a NetBeans ‘Ant’ build
 
 
 A Java 8 program (as a NetBeans project) to simulate a simple dice game for two players
